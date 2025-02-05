@@ -3,7 +3,7 @@ NVRAMRev=$Rev: 373428 $
 sromrev=11
 boardrev=0x1101
 boardtype=0x06db
-boardflags=0x02400201
+boardflags=0x02400001
 #enable LNA1 bypass for both 2G & 5G
 
 #boardflags2=0xc0800000
